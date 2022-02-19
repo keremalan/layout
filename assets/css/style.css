@@ -27,6 +27,8 @@ aside {
     height: 100%;
     background-color: grey;
     position: fixed;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
 }
 
 .content {
